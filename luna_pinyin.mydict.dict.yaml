@@ -1,0 +1,22 @@
+# Rime dictionary
+# encoding: utf-8
+#
+#  self dict by roachsinai
+#
+#
+# 部署位置：
+# ~/.config/ibus/rime  (Linux)
+# ~/Library/Rime  (Mac OS)
+# %APPDATA%\Rime  (Windows)
+#
+# 於重新部署後生效
+#
+
+---
+name: luna_pinyin.cn_en
+version: "2018.07.17"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+第一个词库 di yi ge ci ku
